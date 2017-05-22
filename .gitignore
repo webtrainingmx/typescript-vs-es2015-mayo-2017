@@ -163,3 +163,4 @@ DerivedData
 uploads
 .settings
 npm-debug.log
+bundle.js
