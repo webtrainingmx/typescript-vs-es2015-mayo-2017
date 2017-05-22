@@ -8,7 +8,14 @@ de probar cosas como *arrow functions*, *classes*, *modules*?
 
 Si estás buscando un lugar dónde conocer más sobre estos temas este repositorio es para ti.
 
-# Comandos interesantes del compilador de TypeScript
+## Enlaces
+- [Webtraining Blog](http://blog.webtraining.mx/)
+- [TypeScript Playground](https://www.typescriptlang.org/play/)
+- [Documentación Oficial](https://www.typescriptlang.org/docs/home.html)
+
+
+
+## Comandos interesantes del compilador de TypeScript
 
 Instalar el compilador de typescript
 ```
