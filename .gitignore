@@ -6,6 +6,8 @@
 
 .idea
 es2015/modules/node_modules
+typescript/*.js
+typescript/*.js.map
 
 
 
